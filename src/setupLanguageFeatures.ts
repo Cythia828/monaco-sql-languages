@@ -74,19 +74,21 @@ export function setupLanguageFeatures(
 
 	if (featureLoadedMap.get(languageId)) {
 		setupMode(defaults);
-	} else {
-		// Avoid calling setup multiple times when language loaded
-		if (registerListenerMap.has(languageId)) {
-			registerListenerMap.get(languageId)?.dispose();
-		}
-		registerListenerMap.set(
-			languageId,
-			languages.onLanguage(languageId, () => {
-				setupMode(defaults);
-				featureLoadedMap.set(languageId, true);
-			})
-		);
+		return;
 	}
+	if (registerListenerMap.has(languageId)) {
+		registerListenerMap.get(languageId)?.dispose();
+	}
+
+	const disposable = languages.onLanguage(languageId, () => {
+		setupMode(defaults);
+		featureLoadedMap.set(languageId, true);
+		// 懒加载只需要一次，触发后就移除监听器
+		disposable.dispose();
+		registerListenerMap.delete(languageId);
+	});
+
+	registerListenerMap.set(languageId, disposable);
 }
 
 function getDefaultSnippets(languageId: LanguageIdEnum) {
