@@ -1,0 +1,124 @@
+assets/action-cf35e9b9.js
+  h_8067a67b8aeac4 1
+assets/activityBar-3177f413.js
+  h_8067a67b8aeac4 1
+assets/auxiliaryBar-cc15983d.js
+  h_8067a67b8aeac4 1
+assets/builtin-10824829.js
+  h_8067a67b8aeac4 1
+assets/colorTheme-b1a9a7a7.js
+  h_8067a67b8aeac4 1
+assets/contextMenu-1b809b28.js
+  h_8067a67b8aeac4 1
+assets/cssMode-512d98ff.js
+  h_8067a67b8aeac4 1
+assets/editor-25a0e47d.js
+  h_8067a67b8aeac4 1
+assets/editorTree-d418132e.js
+  h_8067a67b8aeac4 1
+assets/explorer-6e3c9519.js
+  h_8067a67b8aeac4 1
+assets/extension-f39a8c78.js
+  h_8067a67b8aeac4 1
+assets/flink-f3fe0ac9.js
+  h_8067a67b8aeac4 1
+assets/folderTree-0f19835b.js
+  h_8067a67b8aeac4 1
+assets/freemarker2-f4da4301.js
+  h_8067a67b8aeac4 1
+assets/generic-81615cae.js
+  h_8067a67b8aeac4 1
+assets/handlebars-da163129.js
+  h_8067a67b8aeac4 1
+assets/hive-c80a893e.js
+  h_8067a67b8aeac4 1
+assets/html-12debb61.js
+  h_8067a67b8aeac4 1
+assets/htmlMode-014b1fec.js
+  h_8067a67b8aeac4 1
+assets/impala-073d2c8c.js
+  h_8067a67b8aeac4 1
+assets/index-04028790.js
+  h_8067a67b8aeac4 1
+assets/index-2df1ebde.js
+  h_8067a67b8aeac4 88,232,1139,1144,1149,1154,1159,1172,1227,1242-1243
+assets/index-67f0a262.js
+  h_8067a67b8aeac4 1
+assets/index-bbe9b8ae.js
+  h_8067a67b8aeac4 1
+assets/index-e7798bb3.js
+  h_8067a67b8aeac4 1
+assets/javascript-20d77f13.js
+  h_8067a67b8aeac4 1
+assets/jsonMode-17cdafed.js
+  h_8067a67b8aeac4 1
+assets/keyboardFocus-50c31605.js
+  h_8067a67b8aeac4 1
+assets/layout-430284e1.js
+  h_8067a67b8aeac4 1
+assets/liquid-327955e6.js
+  h_8067a67b8aeac4 1
+assets/locale-52933bd3.js
+  h_8067a67b8aeac4 1
+assets/mdx-26df7ba9.js
+  h_8067a67b8aeac4 1
+assets/menuBar-1cafa01f.js
+  h_8067a67b8aeac4 1
+assets/module-3267be5d.js
+  h_8067a67b8aeac4 1
+assets/monaco-3874f280.js
+  h_8067a67b8aeac4 1
+assets/mysql-5df1fe76.js
+  h_8067a67b8aeac4 1
+assets/notification-69672d3f.js
+  h_8067a67b8aeac4 1
+assets/output-7cac8f58.js
+  h_8067a67b8aeac4 1
+assets/panel-593eca50.js
+  h_8067a67b8aeac4 1
+assets/pgsql-158afa2d.js
+  h_8067a67b8aeac4 1
+assets/python-1868db55.js
+  h_8067a67b8aeac4 1
+assets/razor-861899eb.js
+  h_8067a67b8aeac4 1
+assets/search-1f2316da.js
+  h_8067a67b8aeac4 1
+assets/setting-af0de776.js
+  h_8067a67b8aeac4 1
+assets/setupLanguageMode-e3210d18.js
+  h_8067a67b8aeac4 1
+assets/sidebar-e5d0f7d7.js
+  h_8067a67b8aeac4 1
+assets/spark-0882a46e.js
+  h_8067a67b8aeac4 1
+assets/statusBar-64f10ac7.js
+  h_8067a67b8aeac4 1
+assets/textmate-be181fa7.js
+  h_8067a67b8aeac4 1
+assets/trino-5c4ecced.js
+  h_8067a67b8aeac4 1
+assets/tsMode-827c8a57.js
+  h_8067a67b8aeac4 1
+assets/typescript-4a40aec5.js
+  h_8067a67b8aeac4 1
+assets/useMonaco-77294c0d.js
+  h_8067a67b8aeac4 1
+assets/xml-64da74f3.js
+  h_8067a67b8aeac4 1
+assets/yaml-0ce100a5.js
+  h_8067a67b8aeac4 1
+index.html
+  h_8067a67b8aeac4 8
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "faf5de74fb5e0db5f34b2e29f65d907fe9f5dc9a",
+  "prompts": {},
+  "humans": {
+    "h_8067a67b8aeac4": {
+      "author": "zhaoge"
+    }
+  }
+}
